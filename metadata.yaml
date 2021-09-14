@@ -1,11 +1,16 @@
 _repo: Is-Tomorrow-Hitler-s-200-Questions-on-the-Battle-of-Mankind_66251
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 66251-h/images/cover.jpg
 creator:
   author:
     agent_name: Knickerbocker, Hubert Renfro
     gutenberg_agent_id: '53709'
     url: http://www.gutenberg.org/2009/agents/53709
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66251#Is-Tomorrow-Hitler-s-200-Questions-on-the-Battle-of-Mankind
 gutenberg_issued: '2021-09-08'
 identifiers:
   gutenberg: '66251'
